@@ -7,7 +7,7 @@ public class BasicLibraryTest {
     @Test public void testRoll() {
         BasicLibrary classUnderTest = new BasicLibrary();
         classUnderTest.roll(7);
-        System.out.println();
+        System.out.println("does this work");
         // make sure dice roll array length = n
 
     }
